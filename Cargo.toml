@@ -1,0 +1,12 @@
+[package]
+name = "metis"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Pure Rust multilevel k-way graph partitioner inspired by METIS. No C dependencies."
+
+[lib]
+name = "metis_rs"
+path = "src/lib.rs"
+
+[dev-dependencies]
