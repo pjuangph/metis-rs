@@ -13,3 +13,4 @@ debug/
 *.swp
 *.swo
 *~
+.DS_Store
